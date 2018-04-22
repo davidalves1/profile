@@ -1,0 +1,10 @@
+.loader-container {
+    border: 1px solid #ccc;
+    height: 30px;
+    margin: 0 10px;
+    border-radius: 3px;
+}
+
+.loader {
+    min-height: 100%;
+}
